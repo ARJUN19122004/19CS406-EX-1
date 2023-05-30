@@ -1,6 +1,6 @@
 # 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
-DATE :
+DATE : 
 
 AIM :
 
@@ -18,7 +18,9 @@ PROGRAM :
 
 
 OUTPUT:
+![Screenshot from 2023-05-30 11-35-54](https://github.com/ARJUN19122004/19CS406-EX-1/assets/119429483/732ca070-77ed-4052-b880-fb120bffe449)
 
+![Screenshot from 2023-05-30 11-35-34](https://github.com/ARJUN19122004/19CS406-EX-1/assets/119429483/dfad2661-2cbd-4ef3-a57d-2c88c1e9b463)
 
 
 
