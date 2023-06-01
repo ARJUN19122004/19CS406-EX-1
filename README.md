@@ -5,7 +5,6 @@
 # AIM : 
 To implement socket programming date and time display from client to
 server using TCPSockets
-
 # ALGORITHM :
 ```
 Server:
@@ -31,9 +30,7 @@ Client:
 7. Stop.
 
 ```
-
 # PROGRAM :
-
 # CLIENT:
 ```
 import socket
@@ -58,18 +55,11 @@ print(s.getsockname())
 print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
-
 # OUTPUT:
 # CLIENT OUTPUT:
-
-
 ![client1](https://github.com/ARJUN19122004/19CS406-EX-1/assets/119429483/b3889e4f-b5d2-4c3f-8996-d22dcc13a139)
-
 # SERVER OUTPUT:
-
 ![server1](https://github.com/ARJUN19122004/19CS406-EX-1/assets/119429483/0f1ca676-984a-47b3-a3f1-f672f2de48f7)
-
-
 # RESULT: 
 Thus, the program to implement socket programming date and time display from client to
 server using TCP Sockets was successfully executed.
